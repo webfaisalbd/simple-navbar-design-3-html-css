@@ -1,6 +1,11 @@
 ### simple-navbar-design-3-html-css
 
 
+- `PART 1 Demo`
+<p align='center'>
+  <img src="./demoPic/1.png" width="500" title="1">
+</p>
+
 ---
 ---
 `index.html`
@@ -103,4 +108,21 @@ button:hover {
 ---
 ---
 
+- .----------------------------------------------------------------------------.
 
+- `PART 2 Demo`
+<p align='center'>
+  <img src="./demoPic/2.png" width="500" title="2">
+</p>
+
+
+
+---
+---
+- .----------------------------------------------------------------------------.
+
+
+- `PART 3 Demo`
+<p align='center'>
+  <img src="./demoPic/3.png" width="500" title="3">
+</p>
