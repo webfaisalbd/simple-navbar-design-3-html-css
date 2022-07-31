@@ -20,3 +20,8 @@ header {
     align-items: center;
     padding: 30px 10px;
 }
+
+.logo {
+    cursor: pointer;
+    border-radius: 25px;
+}
