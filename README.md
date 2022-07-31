@@ -3,7 +3,7 @@
 
 - `PART 1 Demo`
 <p align='center'>
-  <img src="https://raw.githubusercontent.com/webfaisalbd/simple-navbar-design-3-html-css/master/demoPic/1.png" width="500" title="1">
+  <img src="./demoPic/1.png" width="500" title="1">
 </p>
 
 ---
