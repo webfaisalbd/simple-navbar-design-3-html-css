@@ -34,3 +34,12 @@ header{
     display: inline-block;
     padding: 0 20px;
 }
+
+.navLinks li a{
+     transition: all 0.3s ease 0s ;
+}
+
+.navLinks li a:hover{
+     color: blue;
+}
+
