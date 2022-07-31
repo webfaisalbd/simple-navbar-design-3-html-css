@@ -58,3 +58,9 @@ button:hover{
     background-color: blue;
 }
 
+
+body{
+    max-width: 1024px;
+    margin: auto;
+}
+
