@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: lightblue;
+}
+
+li, a, button{
+    text-decoration: none;
+    font-size: 18px;
+    font-family: 'Mouse Memoirs', sans-serif;
+    color: black;
+}
+
+header {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding: 30px 10px;
+}
+
+.another{
+    margin-right: auto;
+    display: flex;
+} 
+
+.navLinks li {
+    display: inline-block;
+    margin: 0 20px;
+}
+
+
+.navLinks li a {
+    transition: all 0.3s ease 0s;
+}
+
+
+.navLinks li a:hover {
+    color: blueviolet;
+}
+
+.logo{
+    margin-right: 20px;
+    cursor: pointer;
+    border-radius: 25px;
+}
+
+button {
+    border: none;
+    margin-left: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+    background-color: whitesmoke;
+    padding: 9px 25px;
+    border-radius: 25px;
+}
+
+button:hover{
+ color: blueviolet;
+}
+
+body{
+    max-width: 1024px;
+    margin: auto;
+}
+
